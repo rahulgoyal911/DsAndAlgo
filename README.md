@@ -15,6 +15,7 @@
 </pre>
 
 # Stacks	
+<pre>
 > Stack implmentation using Array - Basic Operations
 > Stack implementation using LinkedStack  - Basic Operations 
 > Multiple stacks in 1 Array
@@ -22,6 +23,7 @@
 > Implement Stack using Queues 
 > Brackets Validation
 > HTML TAGS validator
+</pre>
 
 # Queues	
 <pre>
