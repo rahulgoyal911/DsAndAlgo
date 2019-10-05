@@ -13,6 +13,7 @@
 > Remove Loop 
 > Merging Point of Linked Lists ( slow and fast, hashing)
 </pre>
+
 # Stacks	
 > Stack implmentation using Array - Basic Operations
 > Stack implementation using LinkedStack  - Basic Operations 
@@ -23,49 +24,64 @@
 > HTML TAGS validator
 
 # Queues	
+<pre>
 > Queue Basic Operations - (ArrayQueue , LinkedQueue, Circular Queues) 
 > Implement Queue using Stacks.
+</pre>
 
 # Hash Table	
 > Implement Hash Table with collision handling
 > Count the number of words in a string
 
 # Priority Queues and Heaps	
+<pre>
 > Find median in a stream
 > Operations on Binary Min heap
 > Kth largest element in a stream
 > Merge K sorted linked list
+</pre>
 
 # Greedy Algorithms
+<pre>
 > Knapsack
 > Job Sequencing
 > Interval Scheduling
 > Minimum number of Platforms required for a railway/bus station
+</pre>
 
 # Backtracking
+<pre>
 > Generate all Binary strings of length n 
 > Print all permutations of a given string
 > N-Queen Problem
 > Rat in a Maze Problem
+</pre>
 
 # Sorting 
+<pre>
 > Merge Sort (recursive and non-recursive)
 > Quick Sort (recursive and non-recursive)
 > Heap Sort
+</pre>
 
 # String Algorithms	
+<pre>
 > KMP 
 > Z Algorithm
+</pre>
 
 # Binary Search
+<pre>
 > Binary Search - Recursive and Non recursive
 > Find all pairs with sum K 
 > Find first occurence of an integer in a sorted list with duplicates
 > Rotation count of a sorted array 
 > Search element in a rotated sorted array
 > Find missing element
+</pre>
 
 # Trees
+<pre>
 > Creating a  BST 
 > Traversals (Inorder, Preorder and Postorder).
 > Iterative Traversals (Inorder, Preorder and Postorder).
@@ -88,20 +104,26 @@
 > Construct a Tree from Inorder and Preorder, 
 > Construct a Tree from InOrder and PostOrder
 > Implement Tree using Array
+</pre>
 
 # Suffix Arrays
+<pre>
 > Longest Repeated String - Overlapping
 > Longest Repeated String - Non - Overlapping
 > Longest Repeated String which occurs n times 
 > All Anagrams in Dictionary  
 > Longest Common Prefix
-
+</pre>
 # Balanced Trees
+<pre>
 > AVL ( Implementation Optional )
 > Red-Black trees ( Will be discussed in tomorrow's class)
 > Tries (Will be discussed in tomorrow's class)
+</pre>
 
 # Projects
+<pre>
 > Tetris Game - with complete UNDO functionality.
 > Playlist Manager
 > Implement your own Database ( at least command interpreter is required
+</pre>
