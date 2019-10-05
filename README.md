@@ -32,8 +32,10 @@
 </pre>
 
 # Hash Table	
+<pre>
 > Implement Hash Table with collision handling
 > Count the number of words in a string
+</pre>
 
 # Priority Queues and Heaps	
 <pre>
