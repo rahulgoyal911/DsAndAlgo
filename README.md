@@ -1,5 +1,6 @@
 # DsAndAlgo
 # Linked List  	
+<pre>
 > Basic Operations on Single Linked List 
 > Doubly Linked List 
 > Circular Linked list
@@ -11,7 +12,7 @@
 > Detect Loop
 > Remove Loop 
 > Merging Point of Linked Lists ( slow and fast, hashing)
-
+</pre>
 # Stacks	
 > Stack implmentation using Array - Basic Operations
 > Stack implementation using LinkedStack  - Basic Operations 
