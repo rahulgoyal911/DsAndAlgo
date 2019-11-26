@@ -39,10 +39,10 @@
 
 # Greedy Algorithms
 <pre>
-> Knapsack
-> Job Sequencing
-> Interval Scheduling
-> Minimum number of Platforms required for a railway/bus station
+i> Knapsack
+i> Job Sequencing
+i> Interval Scheduling
+i> Minimum number of Platforms required for a railway/bus station
 </pre>
 
 # Sorting 
@@ -85,28 +85,28 @@
 
 # Trees
 <pre>
-> Creating a  BST 
-> Traversals (Inorder, Preorder and Postorder).
-> Iterative Traversals (Inorder, Preorder and Postorder).
-> Calculate Height of a Tree 
-> Path in the Tree ( Highest cost , Print the paths)
-> Level Order Traversal
-> Level Order Traversal in Spiral Form 
-> Reverse Level Order Traversal
-> Mirror of a Tree
-> Vertical Order Traversal 
-> Top View of a Tree 
-> Bottom View of a Tree
-> Check is tree is valid BST or not
-> Binary Tree to Doubly Linked List
-> Delete a Node in BST 
+i> Creating a  BST 
+i> Traversals (Inorder, Preorder and Postorder).
+i> Calculate Height of a Tree 
+i> Path in the Tree ( Highest cost , Print the paths)
+i> Level Order Traversal
+i> Level Order Traversal in Spiral Form 
+i> Reverse Level Order Traversal
+i> Mirror of a Tree
+i> Vertical Order Traversal 
+i> Top View of a Tree 
+i> Bottom View of a Tree
+i> Check is tree is valid BST or not
+i> Delete a Node in BST 
 ...> Palindromic tree 
-> Lowest Common Ancestor
-> Diameter of a Binary Tree 
-> Delete a Tree 
-> Construct a Tree from Inorder and Preorder, 
-> Construct a Tree from InOrder and PostOrder
-> Implement Tree using Array
+i> Lowest Common Ancestor
+i> Diameter of a Binary Tree 
+i> Delete a Tree 
+x> Construct a Tree from Inorder and Preorder, 
+x> Construct a Tree from InOrder and PostOrder
+x> Implement Tree using Array
+x> Iterative Traversals (Inorder, Preorder and Postorder).
+x> Binary Tree to Doubly Linked List
 </pre>
 
 # Balanced Trees
