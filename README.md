@@ -37,28 +37,12 @@
 > Count the number of words in a string
 </pre>
 
-# Priority Queues and Heaps	
-<pre>
-> Find median in a stream
-> Operations on Binary Min heap
-> Kth largest element in a stream
-> Merge K sorted linked list
-</pre>
-
 # Greedy Algorithms
 <pre>
 > Knapsack
 > Job Sequencing
 > Interval Scheduling
 > Minimum number of Platforms required for a railway/bus station
-</pre>
-
-# Backtracking
-<pre>
-> Generate all Binary strings of length n 
-> Print all permutations of a given string
-> N-Queen Problem
-> Rat in a Maze Problem
 </pre>
 
 # Sorting 
@@ -84,6 +68,21 @@
 > Find missing element
 </pre>
 
+# Dynamic Programming
+<pre>
+> 0-1 Knapsack problem
+> Longest Common Subsequence
+> The subset sum problem
+> Longest Increasing Subsequence 
+> The coin change problem
+> Count number of ways to cover a distance
+> Matrix Chain Multiplication
+> Edit Distance problem for strings
+> Cut the rod to maximize profit
+> Minimum Jumps to reach the last element of array
+</pre>
+
+
 # Trees
 <pre>
 > Creating a  BST 
@@ -98,10 +97,10 @@
 > Vertical Order Traversal 
 > Top View of a Tree 
 > Bottom View of a Tree
-> Check is tree is valid BST or no
+> Check is tree is valid BST or not
 > Binary Tree to Doubly Linked List
 > Delete a Node in BST 
-> Palindromic tree 
+...> Palindromic tree 
 > Lowest Common Ancestor
 > Diameter of a Binary Tree 
 > Delete a Tree 
@@ -110,24 +109,59 @@
 > Implement Tree using Array
 </pre>
 
-# Suffix Arrays
-<pre>
-> Longest Repeated String - Overlapping
-> Longest Repeated String - Non - Overlapping
-> Longest Repeated String which occurs n times 
-> All Anagrams in Dictionary  
-> Longest Common Prefix
-</pre>
 # Balanced Trees
 <pre>
-> AVL ( Implementation Optional )
-> Red-Black trees ( Will be discussed in tomorrow's class)
-> Tries (Will be discussed in tomorrow's class)
+> (AVL)(optional implementation)
+> Red-Black trees 
+> Tries 
 </pre>
+
+# Graphs
+<pre>
+> Graph Implementation ( Vertex List using the Hash table )
+> Edge List 
+> Adjacency Matrix
+> Adjacency List
+> Traversals - DFS & BFS
+...> Dijkstra's Shortest Path algorithm
+...> Floyd-Warshall algorithm
+...> Kruskal's algorithm
+...> Prim's algorithm
+</pre>
+
+
+
 
 # Projects
 <pre>
 > Tetris Game - with complete UNDO functionality.
 > Playlist Manager
 > Implement your own Database ( at least command interpreter is required
+</pre>
+
+
+# Backtracking
+<pre>
+> Generate all Binary strings of length n 
+> Print all permutations of a given string
+> N-Queen Problem
+> Rat in a Maze Problem
+</pre>
+
+# Priority Queues and Heaps	
+<pre>
+> Find median in a stream
+> Operations on Binary Min heap
+> Kth largest element in a stream
+> Merge K sorted linked list
+</pre>
+
+# Suffix Arrays
+<pre>
+> Longest Repeated String - Overlapping
+> Longest Common Prefix
+...> Longest Repeated String - Non - Overlapping
+...> Longest Repeated String which occurs n times 
+...> All Anagrams in Dictionary  
+
 </pre>
