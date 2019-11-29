@@ -47,8 +47,8 @@ i> Minimum number of Platforms required for a railway/bus station
 
 # Sorting 
 <pre>
-> Merge Sort (recursive and non-recursive)
-> Quick Sort (recursive and non-recursive)
+i> Merge Sort (recursive and non-recursive)
+i> Quick Sort (recursive and non-recursive)
 > Heap Sort
 </pre>
 
@@ -70,16 +70,16 @@ i> Minimum number of Platforms required for a railway/bus station
 
 # Dynamic Programming
 <pre>
-> 0-1 Knapsack problem
-> Longest Common Subsequence
-> The subset sum problem
-> Longest Increasing Subsequence 
-> The coin change problem
-> Count number of ways to cover a distance
+i> 0-1 Knapsack problem
+i> Longest Common Subsequence
+i> The subset sum problem
+i> Longest Increasing Subsequence 
+i> The coin change problem
+x> Count number of ways to cover a distance
 > Matrix Chain Multiplication
-> Edit Distance problem for strings
-> Cut the rod to maximize profit
-> Minimum Jumps to reach the last element of array
+i> Edit Distance problem for strings
+i> Cut the rod to maximize profit
+i> Minimum Jumps to reach the last element of array
 </pre>
 
 
@@ -118,13 +118,13 @@ x> Binary Tree to Doubly Linked List
 
 # Graphs
 <pre>
-> Graph Implementation ( Vertex List using the Hash table )
-> Edge List 
-> Adjacency Matrix
-> Adjacency List
-> Traversals - DFS & BFS
-...> Dijkstra's Shortest Path algorithm
-...> Floyd-Warshall algorithm
+x> Graph Implementation ( Vertex List using the Hash table )
+i> Edge List 
+i> Adjacency Matrix
+i> Adjacency List
+i> Traversals - DFS & BFS
+i...> Dijkstra's Shortest Path algorithm
+i...> Floyd-Warshall algorithm
 ...> Kruskal's algorithm
 ...> Prim's algorithm
 </pre>
