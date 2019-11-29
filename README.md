@@ -60,12 +60,12 @@ i> Quick Sort (recursive and non-recursive)
 
 # Binary Search
 <pre>
-> Binary Search - Recursive and Non recursive
-> Find all pairs with sum K 
-> Find first occurence of an integer in a sorted list with duplicates
-> Rotation count of a sorted array 
-> Search element in a rotated sorted array
-> Find missing element
+i> Binary Search - Recursive and Non recursive
+x> Find all pairs with sum K 
+x> Find first occurence of an integer in a sorted list with duplicates
+x> Rotation count of a sorted array 
+x> Search element in a rotated sorted array
+x> Find missing element
 </pre>
 
 # Dynamic Programming
@@ -123,10 +123,10 @@ i> Edge List
 i> Adjacency Matrix
 i> Adjacency List
 i> Traversals - DFS & BFS
-i...> Dijkstra's Shortest Path algorithm
-i...> Floyd-Warshall algorithm
+i> Dijkstra's Shortest Path algorithm
+i> Floyd-Warshall algorithm
 ...> Kruskal's algorithm
-...> Prim's algorithm
+i> Prim's algorithm
 </pre>
 
 
