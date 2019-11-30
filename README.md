@@ -9,8 +9,8 @@
 > Find nth Node from end
 > Add first & last , second & second last ...... in O(n) - ( Recursive and Non recursive)
 > Linked List is Palindrome or not
-> Detect Loop
-> Remove Loop 
+i> Detect Loop
+i> Remove Loop 
 > Merging Point of Linked Lists ( slow and fast, hashing)
 </pre>
 
@@ -21,7 +21,7 @@
 > Multiple stacks in 1 Array
 > Min element in a Stack in O (1)
 > Implement Stack using Queues 
-> Brackets Validation
+i> Brackets Validation
 > HTML TAGS validator
 </pre>
 
@@ -76,7 +76,7 @@ i> The subset sum problem
 i> Longest Increasing Subsequence 
 i> The coin change problem
 x> Count number of ways to cover a distance
-> Matrix Chain Multiplication
+.....> Matrix Chain Multiplication
 i> Edit Distance problem for strings
 i> Cut the rod to maximize profit
 i> Minimum Jumps to reach the last element of array
@@ -142,10 +142,10 @@ i> Prim's algorithm
 
 # Backtracking
 <pre>
-> Generate all Binary strings of length n 
-> Print all permutations of a given string
-> N-Queen Problem
-> Rat in a Maze Problem
+i> Generate all Binary strings of length n 
+i> Print all permutations of a given string
+i> N-Queen Problem
+i> Rat in a Maze Problem
 </pre>
 
 # Priority Queues and Heaps	
@@ -165,3 +165,6 @@ i> Prim's algorithm
 ...> All Anagrams in Dictionary  
 
 </pre>
+
+
+strings
