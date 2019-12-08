@@ -32,7 +32,7 @@ void primMst(int graph[][V]){
     parent[0] = -1;
     for(int count= 0;count<V-1;count++){
         int u = minKey(key,mstSet);
-        ++count;
+        // ++count;
         mstSet[u] = true;
         for(int v=0;v<V;v++){
             if (graph[u][v] && mstSet[v] == false && graph[u][v] < key[v])

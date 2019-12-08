@@ -76,7 +76,7 @@ i> The subset sum problem
 i> Longest Increasing Subsequence 
 i> The coin change problem
 x> Count number of ways to cover a distance
-.....> Matrix Chain Multiplication
+i> Matrix Chain Multiplication
 i> Edit Distance problem for strings
 i> Cut the rod to maximize profit
 i> Minimum Jumps to reach the last element of array
