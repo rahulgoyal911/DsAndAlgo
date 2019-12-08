@@ -49,7 +49,7 @@ i> Minimum number of Platforms required for a railway/bus station
 <pre>
 i> Merge Sort (recursive and non-recursive)
 i> Quick Sort (recursive and non-recursive)
-> Heap Sort
+i> Heap Sort
 </pre>
 
 # String Algorithms	
@@ -75,7 +75,7 @@ i> Longest Common Subsequence
 i> The subset sum problem
 i> Longest Increasing Subsequence 
 i> The coin change problem
-x> Count number of ways to cover a distance
+i> Count number of ways to cover a distance
 i> Matrix Chain Multiplication
 i> Edit Distance problem for strings
 i> Cut the rod to maximize profit
@@ -167,4 +167,5 @@ i> Rat in a Maze Problem
 </pre>
 
 
-strings
+strings z,kmp
+kruskal -min spanning tree
