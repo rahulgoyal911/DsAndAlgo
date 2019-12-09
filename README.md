@@ -66,6 +66,7 @@ x> Find first occurence of an integer in a sorted list with duplicates
 x> Rotation count of a sorted array 
 x> Search element in a rotated sorted array
 x> Find missing element
+i>find all triplets with sum = x
 </pre>
 
 # Dynamic Programming

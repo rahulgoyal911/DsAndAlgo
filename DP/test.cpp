@@ -1,4 +1,5 @@
-#include<stdio.h>
+using namespace std;
+#include<iostream>
 int compa(const void *a,const void *b){
     return *(int *)a > *(int *)b;
 }
